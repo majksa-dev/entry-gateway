@@ -1,0 +1,10 @@
+/target
+/.github
+
+
+.env
+CHANGELOG.md
+Dockerfile
+LICENSE
+README.md
+
