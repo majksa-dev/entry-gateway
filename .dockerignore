@@ -1,5 +1,6 @@
 /target
 /.github
+/certs
 
 
 .env
@@ -7,4 +8,5 @@ CHANGELOG.md
 Dockerfile
 LICENSE
 README.md
+config.json
 
